@@ -1,2 +1,0 @@
-# wordguess
-Word Guessing Game
